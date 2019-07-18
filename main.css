@@ -93,4 +93,34 @@ body
     padding-top:10px;
     
 }
+.section4_5
+{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width:1350px;
+    padding-top:0px;
+}
+.section4_5 > div
+{
+    
+    width:40%;
+    margin:0px;
+    padding:5px;
+    align-content: center;
+
+    
+
+}
+.section4
+{
+    background-color: rgb(123, 123, 138);
+    
+}
+.section5 
+{
+    background-color: rgb(9, 8, 112);
+    color:white;
+    
+}
 
