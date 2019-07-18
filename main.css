@@ -134,4 +134,30 @@ body
     bottom: inherit;
    
 }
+.Dgallery
+{
+    padding:0px;
+    width:100%;
+    background-color: gray;
+    height:400px;
+}
+body
+{
+    margin:0px;
+}
+.firstRow
+{
+   
+}
+.secondRow
+{
+
+}
+.galleryInside
+{
+    display:flex;
+    flex-direction: row;
+    width:100px;
+    flex-wrap: wrap;
+}
 
