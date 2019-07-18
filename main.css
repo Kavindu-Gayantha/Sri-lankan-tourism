@@ -108,7 +108,7 @@ body
     margin:0px;
     padding:5px;
     align-content: center;
-
+    margin-bottom: 0px;
     
 
 }
@@ -122,5 +122,16 @@ body
     background-color: rgb(9, 8, 112);
     color:white;
     
+    
+}
+.section6
+{
+    text-align: center;
+    background-color: rgb(95, 91, 86);
+    height: auto;
+    line-height: 35px;
+    margin:0px;
+    bottom: inherit;
+   
 }
 
