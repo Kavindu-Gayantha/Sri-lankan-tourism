@@ -141,6 +141,12 @@ body
     background-color: gray;
     height:400px;
 }
+.gallery img
+{
+    width:100px;
+    height: 50px;
+    
+}
 body
 {
     margin:0px;
